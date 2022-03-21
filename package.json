@@ -1,0 +1,14 @@
+{
+  "name": "ios-15-illustration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/index.css -o ./dist/output.css --watch"
+  },
+  "author": "Aditya Kamble",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
